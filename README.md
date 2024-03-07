@@ -1,2 +1,2 @@
-# Netflix-clonning
-Full Stack Netflix Clone in React, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth &amp; Vercel
+# Trello-clone
+Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL
